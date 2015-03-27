@@ -7,7 +7,7 @@ Subtrator de 3 bits
 Para compilar execute o comando
 
 
-    $ make para compilar
+    $ make
 
 ## Ver as ondas
 
