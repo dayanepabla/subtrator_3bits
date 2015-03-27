@@ -4,8 +4,14 @@ Subtrator de 3 bits
 
 ## Compilando
 
-$ make para compilar
+Para compilar execute o comando
+
+
+    $ make para compilar
 
 ## Ver as ondas
 
-$ make view
+Para visualizar as ondas execute o comando
+
+
+    $ make view
